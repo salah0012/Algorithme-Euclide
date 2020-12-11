@@ -1,2 +1,2 @@
-# PGCD
+# Algorithme euclide
 Devoir
